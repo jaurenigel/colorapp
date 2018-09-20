@@ -1,0 +1,14 @@
+[
+    {"id":1,"colorName":"Black","hexacode":"000000"},
+    {"id":2,"colorName":"Teal","hexacode":"008080"},
+    {"id":3,"colorName":"Grey","hexacode":"cccccc"},
+    {"id":4,"colorName":"Red","hexacode":"fc0c0c"},
+    {"id":5,"colorName":"AliceBlue","hexacode":"f0f8ff"},
+    {"id":6,"colorName":"Aqua","hexacode":"00ffff"},
+    {"id":7,"colorName":"Blue","hexacode":"0000ff"},
+    {"id":8,"colorName":"Cyan","hexacode":"00ffff"},
+    {"id":9,"colorName":"Yellow","hexacode":"ffff00"},
+    {"id":10,"colorName":"Violet","hexacode":"ee82ee"}
+    
+
+]
