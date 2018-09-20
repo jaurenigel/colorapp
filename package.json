@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
-  "author": "Nigel Jaure <inov8vnerd@gmail.com> (https://maiko.creativelab.co.zw)",
+  "author": "Nigel Jaure <nigeljaure@creativelab.co.zw> (https://creativelab.co.zw)",
   "license": "ISC",
   "homepage":"https/jaurenigel.github.io/colorapp",
   "dependencies": {
